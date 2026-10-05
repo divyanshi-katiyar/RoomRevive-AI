@@ -1,0 +1,6 @@
+{
+  "name": "RoomRevive AI",
+  "description": "Upload a photo of your room and transform it into a stunning new interior design with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
